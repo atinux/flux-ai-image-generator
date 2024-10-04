@@ -1,8 +1,8 @@
-# Generate images with AI using Flux-1 Schell on Cloudflare
+# Generate images with AI using Flux-1 Schnell on Cloudflare
 
 Deploy this application on your Cloudflare account and generate images with AI using Flux-1 Schell. Each image is generated with a prompt and number of steps and save in your Cloudflare R2 bucket.
 
-https://github.com/user-attachments/assets/52809fce-084b-40f9-9c08-0a563db81d15
+https://github.com/user-attachments/assets/3d69ea0a-36e7-4698-a736-aa6bce551161
 
 ## Features
 
@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/52809fce-084b-40f9-9c08-0a563db81d15
 - AI Image gallery in development & production with [NuxtHub Blob](https://hub.nuxt.com/docs/features/blob)
 - One click deploy on 275+ locations for free
 
-[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=atinux/flux-ai-cloudflarer-r2)
+[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=atinux/flux-schnell-ai-cloudflare-r2)
 
 ## Setup
 
