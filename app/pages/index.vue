@@ -39,6 +39,7 @@ async function generateImage() {
       </UFormGroup>
       <UButton
         type="submit"
+        color="black"
         block
         :loading="loading"
         :disabled="!prompt"
