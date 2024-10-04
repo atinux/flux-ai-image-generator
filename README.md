@@ -2,6 +2,8 @@
 
 Deploy this application on your Cloudflare account and generate images with AI using Flux-1 Schell. Each image is generated with a prompt and number of steps and save in your Cloudflare R2 bucket.
 
+https://github.com/user-attachments/assets/52809fce-084b-40f9-9c08-0a563db81d15
+
 ## Features
 
 - Basic auth with username and password
