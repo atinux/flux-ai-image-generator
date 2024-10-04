@@ -7,6 +7,7 @@ Deploy this application on your Cloudflare account and generate images with AI u
 - Basic auth with username and password
 - Generate images with Flux-1 Schell
 - Save images to your Cloudflare R2 bucket
+- AI Image gallery in development & production with [NuxtHub Blob](https://hub.nuxt.com/docs/features/blob)
 - One click deploy on 275+ locations for free
 
 [![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=atinux/flux-ai-cloudflarer-r2)
