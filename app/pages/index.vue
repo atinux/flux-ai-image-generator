@@ -19,9 +19,9 @@ async function generateImage() {
 </script>
 
 <template>
-  <div class="flex flex-col items-center justify-center min-h-screen gap-4 text-center w-full max-w-[400px] mx-auto p-4 lg:p-0">
-    <h1 class="text-4xl font-bold">
-      Flux Gallery
+  <div class="flex flex-col items-center justify-center min-h-screen gap-4 text-center w-full max-w-[420px] mx-auto p-4 lg:p-0">
+    <h1 class="text-3xl font-bold">
+      Flux-1 Schell Image Generator
     </h1>
     <form class="w-full" @submit.prevent="generateImage()">
       <UTextarea
@@ -47,6 +47,6 @@ async function generateImage() {
         Generate
       </UButton>
     </form>
-    <img v-if="src" :src="src" class="w-full max-w-[400px]">
+    <img v-if="src" :src="src" class="w-full max-w-[420px]">
   </div>
 </template>
