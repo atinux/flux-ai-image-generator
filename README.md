@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/3d69ea0a-36e7-4698-a736-aa6bce551161
 - AI Image gallery in development & production with [NuxtHub Blob](https://hub.nuxt.com/docs/features/blob)
 - One click deploy on 275+ locations for free
 
-[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=atinux/flux-schnell-ai-cloudflare-r2)
+[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?template=flux-image-generator)
 
 ## Setup
 
