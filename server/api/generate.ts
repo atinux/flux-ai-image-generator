@@ -18,6 +18,7 @@ export default eventHandler(async (event) => {
   const blobObject = await hubBlob().put(pathname, blob, {
     customMetadata: {
       prompt,
+      steps: String(steps)
     },
   })
 

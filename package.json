@@ -15,7 +15,7 @@
     "@kgierke/nuxt-basic-auth": "^1.6.0",
     "@nuxt/eslint": "^0.5.7",
     "@nuxt/ui": "^2.18.6",
-    "@nuxthub/core": "^0.7.23",
+    "@nuxthub/core": "^0.7.24",
     "nuxt": "^3.13.2",
     "vue": "^3.5.11",
     "vue-router": "^4.4.5",
