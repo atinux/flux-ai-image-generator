@@ -9,4 +9,5 @@ useSeoMeta({
   <NuxtRouteAnnouncer />
   <NuxtLoadingIndicator />
   <NuxtPage />
+  <UNotifications />
 </template>

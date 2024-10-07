@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@iconify-json/heroicons':
+        specifier: ^1.2.0
+        version: 1.2.0
       '@kgierke/nuxt-basic-auth':
         specifier: ^1.6.0
         version: 1.6.0(magicast@0.3.5)(rollup@4.24.0)(webpack-sources@3.2.3)
